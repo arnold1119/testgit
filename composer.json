@@ -1,10 +1,17 @@
 {
     "name": "arnold1119/testgit",
+    "description": "Composer project",
+    "type": "project",
+    "require-dev": {
+        "houdunwang/hdphp": "*"
+    },
+    "license": "mit",
     "authors": [
         {
             "name": "arnold1119",
             "email": "jiangnan0037@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
